@@ -30,7 +30,7 @@
 ## 3. Primeiro deploy do app
 
 - Aguarde a criação dos recursos necessários para o deploy do app e clique em **Deploy**.
-- Selecione o diretório com o código fonte importado por você na etapa 1 e clique em Deploy, novamente.
+- Selecione o diretório com o código fonte (onde está o arquivo `app.yaml`) importado por você na etapa 1 e clique em Deploy, novamente.
 - Acesse o app. A interface vai carregar, mas uma mensagem de erro vai aparecer.
 
 ## 4. Consertando o erro
